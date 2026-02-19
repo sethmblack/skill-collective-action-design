@@ -3,8 +3,9 @@ name: collective-action-design
 description: A skill for structuring movements and actions to survive arrest, prevent individual capture, and enable ongoing resistance through collective identity.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3623
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - collective-action-design
 - storytelling
